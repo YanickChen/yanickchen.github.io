@@ -32,7 +32,7 @@ menu:
       weight: 5
 params:
   brand: Yklog
-  avatarURL: /images/avatar.png
+  avatarURL: /images/Ishtar.jpg
   author: Hugo Ladder
   authorDescription: A clean, fast hugo theme focused on Reading
   info: Ladder is a clean, simple but beautiful theme with awesome features
