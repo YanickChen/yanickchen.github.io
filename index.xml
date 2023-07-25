@@ -72,11 +72,11 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">defaultContentLanguage&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;en&amp;#39;&lt;/span> &lt;span style="color:#75715e">#default language&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">params&lt;/span>:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">brand&lt;/span>: &lt;span style="color:#ae81ff">HOME&lt;/span> &lt;span style="color:#75715e"># set the brand of your site&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">avatarURL&lt;/span>: &lt;span style="color:#ae81ff">/images/avatar.png&lt;/span> &lt;span style="color:#75715e"># avatar, replace your avatar in the /static/images/&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">avatarURL&lt;/span>: &lt;span style="color:#ae81ff">/images/Ishtar.jpg&lt;/span> &lt;span style="color:#75715e"># avatar, replace your avatar in the /static/images/&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">author&lt;/span>: &lt;span style="color:#ae81ff">Hugo Ladder&lt;/span> &lt;span style="color:#75715e"># name&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">authorDescription&lt;/span>: &lt;span style="color:#75715e"># description&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">info&lt;/span>: &lt;span style="color:#ae81ff">this is a info&lt;/span> &lt;span style="color:#75715e"># information of your blog site&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">favicon&lt;/span>: &lt;span style="color:#ae81ff">/images/avatar.png&lt;/span> &lt;span style="color:#75715e"># blog site icon，replace your avatar in the /static/images/&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">favicon&lt;/span>: &lt;span style="color:#ae81ff">/images/Ishtar.jpg&lt;/span> &lt;span style="color:#75715e"># blog site icon，replace your avatar in the /static/images/&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">options&lt;/span>:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">showDarkMode&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span> &lt;span style="color:#75715e"># is show dark mode button&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">enableMultiLang&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span> &lt;span style="color:#75715e"># is show multi language button&lt;/span>
@@ -245,8 +245,8 @@
 &lt;td>string&lt;/td>
 &lt;td>No&lt;/td>
 &lt;td>Gravatar photo of the author&lt;/td>
-&lt;td>&lt;code>&amp;quot;/images/avatar.png&amp;quot;&lt;/code> &lt;code>replace the photo or change the path&lt;/code>&lt;/td>
-&lt;td>&lt;code>&amp;quot;/images/avatar.png&amp;quot;&lt;/code>&lt;/td>
+&lt;td>&lt;code>&amp;quot;/images/Ishtar.jpg&amp;quot;&lt;/code> &lt;code>replace the photo or change the path&lt;/code>&lt;/td>
+&lt;td>&lt;code>&amp;quot;/images/Ishtar.jpg&amp;quot;&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>params.author&lt;/td>
@@ -277,8 +277,8 @@
 &lt;td>string&lt;/td>
 &lt;td>No&lt;/td>
 &lt;td>icon photo of the website&lt;/td>
-&lt;td>&lt;code>&amp;quot;/images/avatar.png&amp;quot;&lt;/code>&lt;/td>
-&lt;td>&lt;code>&amp;quot;/images/avatar.png&amp;quot;&lt;/code>&lt;/td>
+&lt;td>&lt;code>&amp;quot;/images/Ishtar.jpg&amp;quot;&lt;/code>&lt;/td>
+&lt;td>&lt;code>&amp;quot;/images/Ishtar.jpg&amp;quot;&lt;/code>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>params.options.showDarkMode&lt;/td>
@@ -477,11 +477,11 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">weight&lt;/span>: &lt;span style="color:#ae81ff">5&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">params&lt;/span>:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">brand&lt;/span>: &lt;span style="color:#ae81ff">HOME&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">avatarURL&lt;/span>: &lt;span style="color:#ae81ff">/images/avatar.png&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">avatarURL&lt;/span>: &lt;span style="color:#ae81ff">/images/Ishtar.jpg&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">author&lt;/span>: &lt;span style="color:#ae81ff">Hugo Ladder&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">authorDescription&lt;/span>: &lt;span style="color:#ae81ff">A clean, fast hugo theme focused on Reading&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">info&lt;/span>: &lt;span style="color:#ae81ff">Ladder is a clean, simple but beautiful theme with awesome features&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">favicon&lt;/span>: &lt;span style="color:#ae81ff">/images/avatar.png&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">favicon&lt;/span>: &lt;span style="color:#ae81ff">/images/Ishtar.jpg&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">options&lt;/span>:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">showDarkMode&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">enableImgZooming&lt;/span>: &lt;span style="color:#66d9ef">true&lt;/span>
