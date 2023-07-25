@@ -1,2 +1,2 @@
-# yanickchen.github.io
+# Yklog
 Welcome to my blog !
